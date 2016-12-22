@@ -1,0 +1,1 @@
+This is a basic project from The Odin Project that utilizes Javascript and jQuery
