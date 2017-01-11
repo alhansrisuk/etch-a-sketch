@@ -1,1 +1,1 @@
-This is a basic project from The Odin Project that utilizes Javascript and jQuery
+This is a basic project from The Odin Project that utilizes Javascript, jQuery, HTML, and CSS to develop an Etch-A-Sketch-like application.
